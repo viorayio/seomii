@@ -5,10 +5,10 @@
             <!-- Sticky sidebar-->
             <div class="col-md-5 col-xl-4 mb-5 mb-md-0" style="margin-top: -125px;">
               <div class="position-sticky top-0" style="padding-top: 125px;">
-                <h2 class="h1 pb-2 pb-lg-3">Vores SEO pakker</h2>
+                <h2 class="h1 pb-2 pb-lg-3">SEO priser</h2>
                 <div class="row">
                   <div class="col-md-10">
-                    <p class="mb-4">The best yoga and meditation practices, adapted at a high level to the needs of the modern pace of life.</p>
+                    <p class="mb-4">Her kan du læse og danne dig et overblik over vores priser på vores resultatskabende søgemaskineoptimering.</p>
                   </div>
                 </div>
                 <ul class="list-unstyled mb-0">
@@ -68,40 +68,56 @@
                 <!-- Pricing card-->
                 <div class="card border-0 bg-secondary rounded-4 position-relative mb-3">
                   <div class="card-body d-sm-flex align-items-start text-center text-sm-start">
-                    <div class="w-100 pe-sm-4 mb-3 mb-sm-0" style="max-width: 27rem;">
-                      <h3 class="mb-2">8 lessons</h3>
-                      <p class="fs-lg mb-0">Valid for all types of classes</p>
+                  <div class="w-100 pe-sm-4 mb-3 mb-sm-0" style="max-width: 24rem;">
+                      <h3 class="mb-2">SEO Starter</h3>
+                      <p class="mb-0">Til den ambitiøse nystartede / mindre virksomhed, som endnu ikke er kommet i gang med søgemaskineoptiemring.</p>
                     </div>
-                    <div class="w-100 pe-sm-3 mx-auto me-sm-0 mb-3 mb-sm-0" style="max-width: 8rem;">
-                      <div class="h3 text-primary mb-0 mb-sm-2">$72</div><span class="fs-sm">$9 per class</span>
+                    <div class="w-100 pe-sm-3 mx-auto me-sm-0 mb-3 mb-sm-0" style="max-width: 14rem;">
+                      <div class="h3 text-primary mb-0 mb-sm-2">1295,00 kr.</div>
+                      <hr>
+                      <span class="fs-sm">Oprettelse: 995,00</span>
+                      <br/><hr>
+                      <span class="fs-sm">Timer inkluderet: 2</span>
+                      <br/><hr>
+                      <span class="fs-sm">Opsigelse: Løb md. + 30 dage</span>
+                  
                     </div>
-                    <button class="btn btn-sm btn-outline-primary stretched-link w-100 w-sm-auto" type="button">Buy</button>
+                   
                   </div>
-                </div>
+                    </div>
                 <!-- Pricing card-->
                 <div class="card border-0 bg-secondary rounded-4 position-relative mb-3">
                   <div class="card-body d-sm-flex align-items-start text-center text-sm-start">
-                    <div class="w-100 pe-sm-4 mb-3 mb-sm-0" style="max-width: 27rem;">
-                      <h3 class="mb-2">16 lessons</h3>
-                      <p class="fs-lg mb-0">Valid for all types of classes</p>
+                  <div class="w-100 pe-sm-4 mb-3 mb-sm-0" style="max-width: 24rem;">
+                      <h3 class="mb-2">SEO Starter</h3>
+                      <p class="mb-0">Til den ambitiøse nystartede / mindre virksomhed, som endnu ikke er kommet i gang med søgemaskineoptiemring.</p>
                     </div>
-                    <div class="w-100 pe-sm-3 mx-auto me-sm-0 mb-3 mb-sm-0" style="max-width: 8rem;">
-                      <div class="h3 text-primary mb-0 mb-sm-2">$120</div><span class="fs-sm">$7 per class</span>
-                    </div>
-                    <button class="btn btn-sm btn-outline-primary stretched-link w-100 w-sm-auto" type="button">Buy</button>
+                    <div class="w-100 pe-sm-3 mx-auto me-sm-0 mb-3 mb-sm-0" style="max-width: 14rem;">
+                      <div class="h3 text-primary mb-0 mb-sm-2">1295,00 kr.</div>
+                      <hr>
+                      <span class="fs-sm">Oprettelse: 995,00</span>
+                      <br/><hr>
+                      <span class="fs-sm">Timer inkluderet: 2</span>
+                      <br/><hr>
+                      <span class="fs-sm">Opsigelse: Løb md. + 30 dage</span>
                   </div>
                 </div>
+    </div>
                 <!-- Pricing card-->
-                <div class="card border-0 bg-secondary rounded-4 position-relative">
+                <div class="card border-0 bg-secondary rounded-4 position-relative mb-3">
                   <div class="card-body d-sm-flex align-items-start text-center text-sm-start">
-                    <div class="w-100 pe-sm-4 mb-3 mb-sm-0" style="max-width: 27rem;">
-                      <h3 class="mb-2">Yoga for pregnant</h3>
-                      <p class="fs-lg mb-0">Valid for all types of classes</p>
+                  <div class="w-100 pe-sm-4 mb-3 mb-sm-0" style="max-width: 24rem;">
+                      <h3 class="mb-2">SEO Starter</h3>
+                      <p class="mb-0">Til den ambitiøse nystartede / mindre virksomhed, som endnu ikke er kommet i gang med søgemaskineoptiemring.</p>
                     </div>
-                    <div class="w-100 pe-sm-3 mx-auto me-sm-0 mb-3 mb-sm-0" style="max-width: 8rem;">
-                      <div class="h3 text-primary mb-0 mb-sm-2">$12</div><span class="fs-sm">per class</span>
-                    </div>
-                    <button class="btn btn-sm btn-outline-primary stretched-link w-100 w-sm-auto" type="button">Buy</button>
+                    <div class="w-100 pe-sm-3 mx-auto me-sm-0 mb-3 mb-sm-0" style="max-width: 14rem;">
+                      <div class="h3 text-primary mb-0 mb-sm-2">1295,00 kr.</div>
+                      <hr>
+                      <span class="fs-sm">Oprettelse: 995,00</span>
+                      <br/><hr>
+                      <span class="fs-sm">Timer inkluderet: 2</span>
+                      <br/><hr>
+                      <span class="fs-sm">Opsigelse: Løb md. + 30 dage</span>
                   </div>
                 </div>
               </div>

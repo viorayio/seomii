@@ -8,10 +8,29 @@
         <div class="container py-lg-3 py-xl-5">
           <div class="row pt-1 pb-2 py-sm-4">
             <div class="col-md-4 text-center text-md-start">
-              <h2 class="h1">Hvem er Seomii.io?</h2>
-              <p class="pb-3 pb-sm-4">Vi er et mindre danskejet SEO bureau i hjertet af Fyn, som hjælper vores kunder med at skabe resultater og synlighed i googles organiske søgeresultater.</p>
-             
 
+              <div class="ps-md-4 ps-lg-0">
+              <h2 class="h1">Om Seomii.io</h2>
+                  <p class="pb-3 mb-3 mb-xl-4">Vi er et mindre danskejet SEO bureau i hjertet af Fyn, som hjælper vores kunder med at skabe resultater og synlighed i googles organiske søgeresultater.</p>
+                  <div class="row row-cols-2 g-4 pb-2 pb-xl-0 mb-4 mb-xl-5">
+                    <div class="col"><i class="ai-spa d-block h2 text-primary fw-normal pb-2 mb-1"></i>
+                      <h3 class="h6 mb-2">Spa area</h3>
+                      <p class="fs-sm mb-0">Neque, blandit consectetur viverra placerat ante.</p>
+                    </div>
+                    <div class="col"><i class="ai-towel d-block h2 text-primary fw-normal pb-2 mb-1"></i>
+                      <h3 class="h6 mb-2">Changing rooms</h3>
+                      <p class="fs-sm mb-0">Neque, blandit consectetur viverra placerat ante.</p>
+                    </div>
+                    <div class="col"><i class="ai-cafe d-block h2 text-primary fw-normal pb-2 mb-1"></i>
+                      <h3 class="h6 mb-2">Lounge cafe</h3>
+                      <p class="fs-sm mb-0">Neque, blandit consectetur viverra placerat ante.</p>
+                    </div>
+                    <div class="col"><i class="ai-sofa d-block h2 text-primary fw-normal pb-2 mb-1"></i>
+                      <h3 class="h6 mb-2">Bright halls</h3>
+                      <p class="fs-sm mb-0">Neque, blandit consectetur viverra placerat ante.</p>
+                    </div>
+                  </div><a class="btn btn-primary" style="width:100%;" href="#">Kontakt os uforpligtende</a>
+                </div>
               
               <div class="d-none d-md-flex justify-content-center">
           

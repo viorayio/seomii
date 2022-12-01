@@ -6,7 +6,7 @@
             <div class="col-lg-5 mb-5 mb-lg-0">
               <h2 class="h1">Kontakt os</h2>
               <p class="pb-1 pb-md-0 mb-4 mb-md-5">Morbi et massa fames ac scelerisque sit commodo dignissim faucibus vel quisque proin lectus.</p>
-              <h4 class="mb-4">Skriv til os via formularen</h4>
+        
               <form class="needs-validation row g-4" novalidate>
                 <div class="col-lg-10">
                   <label class="form-label fs-base" for="name">Name</label>
@@ -24,7 +24,7 @@
                   <div class="invalid-feedback">Please write your message!</div>
                 </div>
                 <div class="col-lg-10">
-                  <button class="btn btn-lg btn-dark rounded-pill mt-20" style="width: 100%;" type="submit">Send besked</button>
+                  <button class="btn btn-primary" style="width: 100%;" type="submit">Send besked</button>
                 </div>
               </form>
             </div>

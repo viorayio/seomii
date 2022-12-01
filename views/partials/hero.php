@@ -1,4 +1,4 @@
-<?php require('views/partials/blocks/spacer-block.view.php'); ?>
+
 
 <section class="bg-white white-mode d-flex min-vh-50 position-relative overflow-hidden py-5">
         <div class="container d-flex flex-column justify-content-center position-relative zindex-2 pt-sm-3 pt-md-4 pt-xl-5 pb-1 pb-sm-3 pb-lg-4 pb-xl-5">

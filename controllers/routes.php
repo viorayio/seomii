@@ -3,10 +3,11 @@
 //dd($_SERVER);
 
 
-$uri = $_SERVER['REQUEST_URI'];
-//dd($uri);
+$uri = parse_url($_SERVER['REQUEST_URI'])['path'];
+//dd(parse_url($uri));
 
-if ($uri == '/') {
+
+if ( $uri == '/') {
 
 require 'controllers/index.php';
 
@@ -44,6 +45,8 @@ else if ($uri == '/about') {
 
 else {
 
-    require ('controllers/not-found-404.php');
+    //require('views/not-found-404.view.php');
+    // END SLASH / bug not fixed, thats why we use below version
+abort();
 
 }
