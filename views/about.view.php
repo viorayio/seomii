@@ -29,7 +29,7 @@
                       <h3 class="h6 mb-2">Bright halls</h3>
                       <p class="fs-sm mb-0">Neque, blandit consectetur viverra placerat ante.</p>
                     </div>
-                  </div><a class="btn btn-primary" style="width:100%;" href="#">Kontakt os uforpligtende</a>
+                  </div><a class="btn btn-primary" style="width:100%;" data-bs-toggle="modal" data-bs-target="#modalId" href="#">Kontakt os uforpligtende</a>
                 </div>
               
               <div class="d-none d-md-flex justify-content-center">
@@ -100,8 +100,31 @@
         </div>
       </section>
 
-            <!-- Address (Map)-->
+      <section class="bg-white py-5">
+<!-- Launch modal button -->
 
+      <!-- Modal with srolling content -->
+<div class="modal fade" id="modalId" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+    <div class="modal-header">
+        <h4 class="modal-title">Vi benytter cookies</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+    <div class="modal-body">
+     <?php require('views/cookies.view.php');?>
+      </div>
+      <div class="modal-footer">
+            <button class="btn btn-secondary w-100 w-sm-auto mb-3 mb-sm-0" type="button" data-bs-dismiss="modal">Accepter nødvendige</button>
+            <button class="btn btn-primary w-100 w-sm-auto ms-sm-3" type="button">Accepter alle</button>
+          </div>
+          <div class="modal-footer">
+           <p>Powered by Thomas Faugsted</p>
+          </div>
+    </div>
+  </div>
+</div>
+</section>
 
 
       <?php require('views/partials/footer.php');?>

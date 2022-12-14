@@ -54,5 +54,9 @@
     <!-- Body-->
     <body>
     <main class="page-wrapper">
+    <div class="alert d-flex alert-light" role="alert">
+  <i class="ai-bell fs-xl pe-1 me-2"></i>
+  <div>A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.</div>
+</div>
  
    

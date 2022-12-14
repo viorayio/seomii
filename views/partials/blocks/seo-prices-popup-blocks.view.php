@@ -1,10 +1,10 @@
       <!-- Pricing-->
-      <section class="pt-5 mt-lg-3 mt-xl-4 mt-xxl-5" id="prices">
+      <section class="pt-5" id="prices">
         <div class="container pt-2 pt-sm-4 pt-lg-5 mt-md-2">
           <div class="row">
             <!-- Sticky sidebar-->
-            <div class="col-md-5 col-xl-4 mb-5 mb-md-0" style="margin-top: -125px;">
-              <div class="position-sticky top-0" style="padding-top: 125px;">
+            <div class="col-md-5 col-xl-4 mb-5 mb-md-0">
+              <div class="position-sticky top-0">
                 <h2 class="h1 pb-2 pb-lg-3">SEO priser</h2>
                 <div class="row">
                   <div class="col-md-10">
@@ -43,28 +43,9 @@
             </div>
             <!-- Pricing list-->
             <div class="col-md-7 offset-xl-1">
-              <div class="ps-md-4 ps-xxl-5">
-                <!-- Pricing card-->
-                <div class="card border-0 bg-secondary rounded-4 position-relative mb-3">
-                  <div class="card-body d-sm-flex align-items-start text-center text-sm-start">
-                    <div class="w-100 pe-sm-4 mb-3 mb-sm-0" style="max-width: 24rem;">
-                      <h3 class="mb-2">SEO Starter</h3>
-                      <p class="mb-0">Til den ambitiøse nystartede / mindre virksomhed, som endnu ikke er kommet i gang med søgemaskineoptiemring.</p>
-                    </div>
-                    <div class="w-100 pe-sm-3 mx-auto me-sm-0 mb-3 mb-sm-0" style="max-width: 14rem;">
-                      <div class="h3 text-primary mb-0 mb-sm-2">1295,00 kr.</div>
-                      <hr>
-                      <span class="fs-sm">Oprettelse: 995,00</span>
-                      <br/><hr>
-                      <span class="fs-sm">Timer inkluderet: 2</span>
-                      <br/><hr>
-                      <span class="fs-sm">Opsigelse: Løb md. + 30 dage</span>
+             
                   
-                    </div>
-                   
-                  </div>
-                  
-                </div>
+              
                 <!-- Pricing card-->
                 <div class="card border-0 bg-secondary rounded-4 position-relative mb-3">
                   <div class="card-body d-sm-flex align-items-start text-center text-sm-start">
@@ -80,7 +61,8 @@
                       <span class="fs-sm">Timer inkluderet: 2</span>
                       <br/><hr>
                       <span class="fs-sm">Opsigelse: Løb md. + 30 dage</span>
-                  
+                      
+                      <button class="btn btn-primary mb-2 p-30" style="width:100%; margin-top:10px;" type="button">Start bestilling</button>
                     </div>
                    
                   </div>
@@ -100,6 +82,7 @@
                       <span class="fs-sm">Timer inkluderet: 2</span>
                       <br/><hr>
                       <span class="fs-sm">Opsigelse: Løb md. + 30 dage</span>
+                      <button class="btn btn-primary mb-2 p-30" style="width:100%; margin-top:10px;" type="button">Start bestilling</button>
                   </div>
                 </div>
     </div>
@@ -118,6 +101,7 @@
                       <span class="fs-sm">Timer inkluderet: 2</span>
                       <br/><hr>
                       <span class="fs-sm">Opsigelse: Løb md. + 30 dage</span>
+                      <button class="btn btn-primary mb-2 p-30" style="width:100%; margin-top:10px;" type="button">Start bestilling</button>
                   </div>
                 </div>
               </div>

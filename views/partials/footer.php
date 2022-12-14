@@ -50,12 +50,19 @@
         <circle cx="20" cy="20" r="19" fill="none" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"></circle>
       </svg><i class="ai-arrow-up"></i></a>
     <!-- Vendor scripts: js libraries and plugins-->
+    
     <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
     <script src="assets/vendor/img-comparison-slider/dist/index.js"></script>
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
     <script src="assets/vendor/lightgallery/lightgallery.min.js"></script>
     <script src="assets/vendor/lightgallery/plugins/video/lg-video.min.js"></script>
+
+
+  
+    <script src="assets/vendor/parallax-js/dist/parallax.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
 
     
     <!-- Main theme script-->

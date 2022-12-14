@@ -1,5 +1,12 @@
+
 <?php require ('views/partials/header.php')?>
 <?php require ('views/partials/nav.php')?>
+
+
+
+
+
+
     <section class="bg-white pt-5 pb-4">
         <div class="container py-lg-2 py-xl-4 py-xxl-5">
           <div class="row mt-1 pt-sm-2 pt-md-3 pt-lg-4">

@@ -1,3 +1,15 @@
+<!-- Extra large modal -->
+<div class="modal fade" id="modalId-prices" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-fullscreen dialog-scrollable" role="document">
+    <div class="modal-content">
+    <div class="modal-header">
+        <h4 class="modal-title">Vælg en SEO pakke...</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+    <?php require('views/partials/blocks/seo-prices-popup-blocks.view.php');?>
+    </div>
+  </div>
+</div>
 <header class="navbar navbar-expand-lg fixed-top-disabled">
         <div class="container"><a class="navbar-brand pe-sm-3" href="/"><span class="text-primary  flex-shrink-0 me-2">
               <svg version="1.1" width="35" height="32" viewBox="0 0 36 33" xmlns="http://www.w3.org/2000/svg">
@@ -6,7 +18,7 @@
 
        
 
-    <a class="btn btn-primary bg-gradient btn-sm fs-sm order-lg-3 d-none d-sm-inline-flex" href="/prices" target="_blank" rel="noopener">Udforsk SEO pakker...<i class="ai-rocket fs-xl me-2 ms-n1"></i></a>
+    <a class="btn btn-primary bg-gradient btn-sm fs-sm order-lg-3 d-none d-sm-inline-flex" href="/seo#prices" data-bs-toggle="modal" data-bs-target="#modalId-prices" rel="noopener">Udforsk SEO pakker...<i class="ai-rocket fs-xl me-2 ms-n1"></i></a>
           <button class="navbar-toggler ms-sm-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
           <nav class="collapse navbar-collapse " id="navbarNav">
             <ul class="navbar-nav navbar-nav-scroll me-auto" style="--ar-scroll-height: 520px;">
@@ -14,7 +26,7 @@
            
               <li class="nav-item"><a class="nav-link" href="/seo">SEO</a>
               <li class="nav-item"><a class="nav-link" href="/cases">Kundecases</a>
-              <li class="nav-item"><a class="nav-link" href="/blog">SEO blog</a>
+              <li class="nav-item"><a class="nav-link" href="/blogs">Blog</a>
               
               </li>
               <li class="nav-item"><a class="nav-link" href="/about">Om os</a></li>
